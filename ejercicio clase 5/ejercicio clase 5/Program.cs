@@ -13,14 +13,14 @@ while (consultaDeNombre)
 
     Console.WriteLine("¿Desea continuar? S/N:");
     var respuesta = Console.ReadLine();
-    if (respuesta.ToUpper() == "N")
+    if (respuesta.ToUpper() == "S")
+        consultaDeNombre = true; 
+    else if (respuesta.ToUpper() == "N")
     {
         Console.WriteLine("El programam finalizo correctamente");
         consultaDeNombre = false;
     }
-    else if (respuesta.ToUpper() == "S")
-        consultaDeNombre = true;
-    
+
 
     else
     {
