@@ -1,0 +1,15 @@
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\bin\Debug\net6.0\ejercicio clase 6.exe
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\bin\Debug\net6.0\ejercicio clase 6.deps.json
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\bin\Debug\net6.0\ejercicio clase 6.runtimeconfig.json
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\bin\Debug\net6.0\ejercicio clase 6.dll
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\bin\Debug\net6.0\ejercicio clase 6.pdb
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ejercicio clase 6.csproj.AssemblyReference.cache
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ejercicio clase 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ejercicio clase 6.AssemblyInfoInputs.cache
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ejercicio clase 6.AssemblyInfo.cs
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ejercicio clase 6.csproj.CoreCompileInputs.cache
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ejercicio clase 6.dll
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\refint\ejercicio clase 6.dll
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ejercicio clase 6.pdb
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ejercicio clase 6.genruntimeconfig.cache
+C:\Users\sitio\Documents\Curso,net\Clase 6\ejercicio clase 6\ejercicio clase 6\obj\Debug\net6.0\ref\ejercicio clase 6.dll
