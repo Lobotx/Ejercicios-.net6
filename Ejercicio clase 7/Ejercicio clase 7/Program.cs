@@ -75,7 +75,7 @@ Console.WriteLine($"El numero menor es:{numeroMenor}");
 Console.WriteLine($"Resultado suma: {suma}");
 Console.WriteLine($"Resultado promedio: {promedio}");
 Console.WriteLine($"Resultado mayor: {numeroMayor}");
-Console.WriteLine($"Resultado mayor: {numeroMenor}");
+Console.WriteLine($"Resultado menor: {numeroMenor}");
 
 Console.WriteLine("Pulse cualquier tecla para finalizar...");
 Console.ReadKey();
