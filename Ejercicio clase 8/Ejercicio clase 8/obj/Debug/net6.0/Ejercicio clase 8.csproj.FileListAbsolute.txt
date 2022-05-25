@@ -1,0 +1,15 @@
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\bin\Debug\net6.0\Ejercicio clase 8.exe
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\bin\Debug\net6.0\Ejercicio clase 8.deps.json
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\bin\Debug\net6.0\Ejercicio clase 8.runtimeconfig.json
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\bin\Debug\net6.0\Ejercicio clase 8.dll
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\bin\Debug\net6.0\Ejercicio clase 8.pdb
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\Ejercicio clase 8.csproj.AssemblyReference.cache
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\Ejercicio clase 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\Ejercicio clase 8.AssemblyInfoInputs.cache
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\Ejercicio clase 8.AssemblyInfo.cs
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\Ejercicio clase 8.csproj.CoreCompileInputs.cache
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\Ejercicio clase 8.dll
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\refint\Ejercicio clase 8.dll
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\Ejercicio clase 8.pdb
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\Ejercicio clase 8.genruntimeconfig.cache
+C:\Users\sitio\Documents\Curso,net\Clase 8\Ejercicio clase 8\Ejercicio clase 8\obj\Debug\net6.0\ref\Ejercicio clase 8.dll
