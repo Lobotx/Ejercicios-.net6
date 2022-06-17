@@ -1,0 +1,15 @@
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\bin\Debug\net6.0\Ejercicio clase 13.exe
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\bin\Debug\net6.0\Ejercicio clase 13.deps.json
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\bin\Debug\net6.0\Ejercicio clase 13.runtimeconfig.json
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\bin\Debug\net6.0\Ejercicio clase 13.dll
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\bin\Debug\net6.0\Ejercicio clase 13.pdb
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\Ejercicio clase 13.csproj.AssemblyReference.cache
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\Ejercicio clase 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\Ejercicio clase 13.AssemblyInfoInputs.cache
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\Ejercicio clase 13.AssemblyInfo.cs
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\Ejercicio clase 13.csproj.CoreCompileInputs.cache
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\Ejercicio clase 13.dll
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\refint\Ejercicio clase 13.dll
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\Ejercicio clase 13.pdb
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\Ejercicio clase 13.genruntimeconfig.cache
+C:\Users\Lobotx\source\repos\Ejercicios-.net6\Ejercicio clase 13\Ejercicio clase 13\Ejercicio clase 13\obj\Debug\net6.0\ref\Ejercicio clase 13.dll
